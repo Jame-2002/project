@@ -1,0 +1,1 @@
+Tesseract.js 7.0.0: https://github.com/naptha/tesseract.js (Apache-2.0). Core: https://github.com/naptha/tesseract.js-core (Apache-2.0; see CORE-LICENSE). Language data: https://github.com/naptha/tessdata (eng/tha traineddata). Distributed locally so roster images need not be sent to an external OCR service.
